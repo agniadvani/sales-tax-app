@@ -1,0 +1,24 @@
+{
+  "name": "sales-tax-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agniadvani/sales-tax-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/agniadvani/sales-tax-app/issues"
+  },
+  "homepage": "https://github.com/agniadvani/sales-tax-app#readme",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
